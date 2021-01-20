@@ -58,7 +58,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="login.html" class="btn btn-danger btn-fill">Login</a>
+                        <a href="multi_user/multi_user/logincln.php" class="btn btn-danger btn-fill">Login</a>
                     </li>
                 </ul>
             </div>
@@ -100,40 +100,50 @@
                 <div class="title-area">
                     <h2>Our Services</h2>
                     <div class="separator separator-danger">✻</div>
-                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam quos dolore illum a beatae dicta architecto magnam quis magni, temporibus, iusto, voluptates ad. Repellat cum aspernatur facere, illo eaque ut.</p>
+                    <p class="description">
+                    Bisnis bergerak dibidang jasa, yaitu membersihkan sepatu dengan 
+                    penanganan yang khusus dan tenaga kerja yang di training dengan baik. 
+                    serta cairan pembersih sepatu yang aman dengan bahan sepatu juga ramah 
+                    lingkungan yang artinya tidak bersifat korosif, dan tools yang kompatibel
+                     untuk membersihkan sepatu. 
+                    
+                    </p>
                 </div>
             </div>
+            <div class = "Service">
+            <h2>Deep Cleaning</h2>
+
+
+            </div>
             <div class="row">
-                <div class="col-md-4">
-                <p><img class="alignnone size-medium wp-image-895 alignleft" src="https://i1.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3-300x200.png?resize=300%2C200" alt="iShoe Laundry - Standard Clean" width="300" height="200" srcset="https://i2.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3.png?resize=300%2C200&amp;ssl=1 300w, https://i2.wp.com/www.ishoelaundry.com/wp-content/uploads/2010/08/Standard-Clean-3.png?w=700&amp;ssl=1 700w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></p>
-<p style="text-align: left;"><strong>Standard Clean / Quick Clean<br />
+                <div class="col-md-5">
+                <img alt="..." src="Admin/assets/img/Service/Deep.png">
+<p style="text-align: left;"><strong>Easy Clean<br />
 </strong></p>
 <ul>
-<li>Price: Rp 40.000,-</li>
+<li>Price: Rp 25.000,-</li>
 <li>Cleaning Part: Upper Sole, Middle Sole</li>
-<li>Shoe Material: All Materials (Canvas, Suede, Leather, Nubuck, etc..)</li>
-<li>Duration: 30-Minutes</li>
+<li>Shoe Material: Canvas, Suede, Nubuck, etc.</li>
+<li>Duration: 2-3 Days</li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
                 </div>
                 <div class="col-md-4">
-                    <div class="info-icon">
-                        <div class="icon text-danger">
-                            <i class="pe-7s-note2"></i>
-                        </div>
-                        <h3>Content</h3>
-                        <p class="description">We create a persona regarding the multiple wardrobe accessories that we provide..</p>
-                    </div>
+                <p><strong><img  src="Admin/assets/img/Service/Deep.png"  /></strong></p>
+                    <p><strong>Deep Clean<br />
+                    </strong></p>
+                    <ul>
+                    <li>Price: Rp 60.000,-</li>
+                    <li>Cleaning Part: Upper Sole, Middle Sole, Out Sole, In Sole, Laces</li>
+                    <li>Shoe Material: Canvas, Suede, Nubuck, etc.</li>
+                    <li>Duration: 2-3 Days (Depends on shoes condition)</li>
+                    </ul>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
                 </div>
                 <div class="col-md-4">
-                    <div class="info-icon">
-                        <div class="icon text-danger">
-                            <i class="pe-7s-music"></i>
-                        </div>
-                        <h3>Music</h3>
-                        <p class="description">We like to present the world with our work, so we make sure we spread the word regarding our clothes.</p>
-                    </div>
+                    
                 </div>
             </div>
         </div>
